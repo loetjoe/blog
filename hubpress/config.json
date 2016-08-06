@@ -4,7 +4,14 @@
     "repositoryName": "blog",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "Loe Tjoe",
+    "description": "My Blog"
+  },
+  "socialnetwork": {
+    "github": "loetjoe"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
